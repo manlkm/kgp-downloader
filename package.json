@@ -1,0 +1,23 @@
+{
+  "name": "kgp-downloader",
+  "version": "0.0.2",
+  "description": "download kgp content",
+  "main": "kgp.js",
+  "dependencies": {
+    "electron": "^1.4.4",
+    "nightmare": "^2.10.0",
+    "async": "latest",
+    "vo": "latest",
+    "json2xls": "latest",
+    "fs": "latest",
+    "progress": "latest",
+    "ascii-banner": "latest"
+  },
+  "readmeFilename": "README.md",
+  "directories": {
+    "test": "test"
+  },
+  "engines": {
+    "node":">=4.0.0"
+  }
+}
