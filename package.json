@@ -4,7 +4,7 @@
   "description": "download kgp content",
   "main": "kgp.js",
   "dependencies": {
-    "electron": "^1.4.4",
+    "electron": "^9.1.0",
     "nightmare": "^2.10.0",
     "async": "latest",
     "vo": "latest",
